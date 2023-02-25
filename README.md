@@ -1,9 +1,3 @@
-# ML-study
-ML study
--Regression
+# Suyoung Kim
+ML Data Developer
 
--Classification
-
--Clustering
-
--XAI
